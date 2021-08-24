@@ -1,0 +1,8 @@
+pyramid
+pyramid-ipython
+waitress
+sqlalchemy
+psycopg2-binary
+pyramid_tm
+transaction
+zope.sqlalchemy

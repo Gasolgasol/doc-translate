@@ -1,0 +1,6 @@
+[console_scripts]
+initdb = helloworld.scripts.initializedb:main
+
+[paste.app_factory]
+main = helloworld:main
+
